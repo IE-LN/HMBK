@@ -1,0 +1,2 @@
+[29-Apr-2014 15:32:15 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/nightowl/public_html/dev/htdocs/wp-content/themes/holly/functions.php on line 11
+[29-Apr-2014 15:32:28 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/nightowl/public_html/dev/htdocs/wp-content/themes/holly/functions.php on line 11
