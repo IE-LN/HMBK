@@ -1,0 +1,16 @@
+.message.success {
+    color: green;
+    border: 1px solid green;
+    background-color: #BCFAAC;
+    width: 300px;
+}
+
+.message.error {
+    width: 300px;
+}
+
+.loadImage{
+    height: 20px;
+    width: 20px;
+    float: left;
+}
